@@ -1,0 +1,12 @@
+.venv/*
+*.pyc
+*.tar
+*.png
+*.bmp
+*.jpg
+*.jpeg
+*.pt
+*.log
+superresolution/*
+trainsets/*
+testsets/*
